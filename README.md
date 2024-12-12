@@ -1,4 +1,4 @@
-# Gaussian-Blur
+# **Gaussian-Blur**
 ## Problem Description
 
 This project aims to create a system that allows users to upload an image and selectively blur sections using a mouse connected to an FPGA board. The primary functionality involves implementing a Gaussian blur effect to enhance the image editing process, demonstrating how hardware acceleration can improve computational tasks.
